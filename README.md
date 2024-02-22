@@ -1,4 +1,4 @@
-# Predicting Chances of University Application Acceptance with Regression
+# Predicting University Admission Chances using Regression
 
 This dataset was obtained from: https://www.kaggle.com/datasets/akshaydattatraykhare/data-for-admission-in-the-university?resource=download
 
